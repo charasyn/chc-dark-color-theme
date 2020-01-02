@@ -1,8 +1,8 @@
 {
     "name": "chc-dark-color-theme",
     "displayName": "CHC Dark - Cooper's High Contrast Dark Color Theme",
-    "description": "Imagine the default Dark+ theme but without super washed out colors",
-    "version": "0.0.1",
+    "description": "An edit of the default Dark+ theme to increase contrast",
+    "version": "1.0.0",
     "publisher": "charasyn",
     "repository": "https://github.com/charasyn/chc-dark-color-theme",
     "engines": {
