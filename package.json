@@ -4,6 +4,7 @@
     "description": "Imagine the default Dark+ theme but without super washed out colors",
     "version": "0.0.1",
     "publisher": "charasyn",
+    "repository": "https://github.com/charasyn/chc-dark-color-theme",
     "engines": {
         "vscode": "^1.32.0"
     },
