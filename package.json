@@ -1,0 +1,22 @@
+{
+    "name": "chc-dark-color-theme",
+    "displayName": "CHC Dark - Cooper's High Contrast Dark Color Theme",
+    "description": "Imagine the default Dark+ theme but without super washed out colors",
+    "version": "0.0.1",
+    "publisher": "charasyn",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CHC Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chc-dark-color-theme.json"
+            }
+        ]
+    }
+}
