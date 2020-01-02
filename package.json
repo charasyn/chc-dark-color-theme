@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "publisher": "charasyn",
     "repository": "https://github.com/charasyn/chc-dark-color-theme",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.32.0"
     },
